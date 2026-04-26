@@ -1,0 +1,30 @@
+PRACTICAL TO PERFORM MULTIPLICATION ON PHYSICAL TRAINER KIT
+Reset
+Ex memory
+3000
+Next
+74 next 03
+next
+75 next F0 next 05
+next
+A4
+next
+90 next 30 next 12
+next
+F0
+next
+A3
+next
+E5 next F0
+next
+F0
+next
+80 next FE
+Full 
+Go
+3000
+Fill
+Reset
+Ex memory
+3012
+Dm
